@@ -1,0 +1,10 @@
+{
+  "project_irr": 0.127826852360176,
+  "npv_inr_crore": 44.38645685868869,
+  "year_1_revenue_inr_crore": 140.4,
+  "year_1_ebitda_inr_crore": 71.52,
+  "year_1_processed_tonnes": 2160000,
+  "ebitda_breakeven_tonnes": 638297.8723404255,
+  "simple_payback_years": 8.524199459944603,
+  "discount_rate": 0.12
+}
