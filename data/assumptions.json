@@ -1,0 +1,16 @@
+{
+  "initial_addressable_market_tonnes": 12000000,
+  "annual_market_growth": 0.06,
+  "traffic_capture_share": 0.18,
+  "annual_terminal_capacity_tonnes": 7500000,
+  "realized_tariff_inr_per_tonne": 650,
+  "initial_capex_inr_crore": 700,
+  "annual_fixed_opex_inr_crore": 30,
+  "variable_opex_inr_per_tonne": 180,
+  "discount_rate": 0.12,
+  "corporate_tax_rate": 0.25,
+  "concession_years": 20,
+  "terminal_residual_value_inr_crore": 0,
+  "working_capital_change_inr_crore_per_year": 0,
+  "provenance": "All numeric inputs are synthetic portfolio case assumptions, not observed Indian port data."
+}
